@@ -1,0 +1,9 @@
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\bin\Debug\BJSS.ShoppingBasket.Tests.dll
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\bin\Debug\BJSS.ShoppingBasket.Tests.pdb
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\bin\Debug\BJSS.ShoppingBasketApp.exe
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\bin\Debug\BJSS.ShoppingBasketApp.pdb
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\obj\Debug\BJSS.ShoppingBasket.Tests.csprojResolveAssemblyReference.cache
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\obj\Debug\BJSS.ShoppingBasket.Tests.dll
+C:\C#Projects\BJSS.ShoppingBasketApp\BJSS.ShoppingBasket.Tests\obj\Debug\BJSS.ShoppingBasket.Tests.pdb
